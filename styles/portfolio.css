@@ -227,4 +227,21 @@ section {
     text-align: left; 
 
 }
+.contact input[type="text"], input[type="email"], textarea{
+    margin-bottom: 24px;
+    border: 0;
+    width: 100%;
+    padding:18px 30px;
+}
 
+input{
+    height: 64px;
+}
+
+.contact {
+    text-decoration: none;
+}
+
+contact .section-description{
+    margin-bottom: 30px;
+}
