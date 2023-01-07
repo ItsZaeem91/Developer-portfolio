@@ -35,7 +35,7 @@
 nav {
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 
 .nav-title {
@@ -242,6 +242,6 @@ input{
     text-decoration: none;
 }
 
-contact .section-description{
+/* contact .section-description{
     margin-bottom: 30px;
-}
+} */
