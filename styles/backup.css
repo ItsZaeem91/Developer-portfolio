@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+/* Header And Navigation Styles */
+.nav-title {
+    font-weight: 800;
+    font-size: 45px;
+    padding-top: 25px;
+
+}
+
+.r-color {
+    color: #FD6E0A;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+
+nav li {
+
+    list-style: none;
+    padding: 30px;
+    margin-left: 25px;
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+
+}
+
+.btn-primary {
+
+    height: 64px;
+    border-radius: 5px;
+    background: #FD6E0A;
+    width: 150px;
+    /* position: absolute; */
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+}
